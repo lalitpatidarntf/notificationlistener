@@ -1,4 +1,4 @@
-package com.myproject;
+package com.notificationlistener;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.ReactApplicationContext;
